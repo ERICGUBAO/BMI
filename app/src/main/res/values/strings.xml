@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">BMI</string>
+    <string name="rmb_show">Hello</string>
+    <string name="rmb_inp_tip">Input RMB</string>
+    <string name="btn_dollar_label">dollar</string>
+    <string name="btn_euro_label">euro</string>
+    <string name="btn_won_label">won</string>
+    <string name="btn_config_label">config</string>
+    <string name="btn_save_label">save rate</string>
+    <string name="menu_setting_label">Settings</string>
 </resources>
